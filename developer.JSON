@@ -87,7 +87,8 @@
     "demand":25000,
     "country": "Bangladesh",
     "role": "Web Developer"
-  },{
+  },
+  {
     "name":"Jhankar Mahbub",
     "img": "https://ibb.co/zbjHC7q",
     "skill": "Python,Javascript",
@@ -96,5 +97,4 @@
     "country": "Bangladesh",
     "role": "Web Developer"
   }
-  
-]
+  ]
