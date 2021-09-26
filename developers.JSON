@@ -1,5 +1,6 @@
 [
   {
+    "key": 1,
     "name":"Jhankar Mahbub",
     "img": "https://i.ibb.co/XpNk63c/jhankar.jpg",
     "skill": "Python,Javascript",
@@ -9,92 +10,103 @@
     "exprience": "Web Developer"
   },
   {
+    "key": 2,
     "name":"BRENDAN EICH",
     "img": "https://i.ibb.co/jGYVdck/BRENDAN-EICH.jpg",
     "skill": "Javascript",
     "age": 55,
     "demand":250000,
     "country": "USA",
-    "exprience": "He created the JavaScript programming language and co-founded the Mozilla project, the Mozilla Foundation, and the Mozilla Corporation"
+    "experience": "He created the JavaScript programming language and co-founded the Mozilla project, the Mozilla Foundation, and the Mozilla Corporation"
   },
   {
+    "key": 3,
     "name":"John Resig",
     "img": "https://i.ibb.co/qYwdM7V/John-Resig.jpg",
     "skill": "Javascript, Jquery",
     "age": 34,
     "demand":200000,
     "country": "USA",
-    "exprience": "He is known as an expert in the JavaScript programming language and the creator of the most popular JavaScript library in the world: Jquery"
+    "experience": "He is known as an expert in the JavaScript programming language and the creator of the most popular JavaScript library in the world: Jquery"
   },
   {
+    "key": 4,
     "name":"Matt Mullenweg",
     "img": "https://i.ibb.co/dJxkSrh/Matt-Mullenweg.jpg",
     "skill": "Wordpress",
     "age": 37,
     "demand":21000,
     "country": "USA",
-    "exprience": "He is developing the free and open-source web software WordPress"
+    "experience": "He is developing the free and open-source web software WordPress"
   },
   {
+    "key": 5,
     "name":"Mike Bostock",
     "img": "https://i.ibb.co/g3JDsW5/Mike-Bostock.jpg",
     "skill": "D3.js, TopoJSON, ObservableHQ",
     "age": 45,
     "demand":25000,
     "country": "USA",
-    "exprience": "He is the co-creators of Observable and noted as one of the key developers of D3.js,[1] a JavaScript library used for producing dynamic, interactive, online data visualizations"
+    "experience": "He is the co-creators of Observable and noted as one of the key developers of D3.js,[1] a JavaScript library used for producing dynamic, interactive, online data visualizations"
   },
   {
+    "key": 6,
     "name":"Avatar Miško Hevery",
     "img": "https://i.ibb.co/Nm5tHFv/Avatar-Mi-ko-Hevery.jpg",
     "skill": "Angular, Javascript",
     "age": 30,
     "demand":230000,
     "country": "USA",
-    "Exprience": "He is the creater of a well known framework angular JS"
-  },{
+    "experience": "He is the creater of a well known framework angular JS"
+  },
+  {
+    "key": 7,    
     "name":"Dave Methvin",
     "img": "https://i.ibb.co/tYPmnbH/Dave-Methvin.jpg",
     "skill": "Javascript",
     "age": 45,
     "demand":25000,
     "country": "UK",
-    "exprience": "Current jQuery project lead"
+    "experience": "Current jQuery project lead"
   },
   {
+    "key": 8,
     "name":"Rob Eisenberg",
     "img": "https://i.ibb.co/7ncMY0G/Rob-Eisenberg.jpg",
     "skill": "Javascript",
     "age": 45,
     "demand":25000,
     "country": "USA",
-    "exprience": "Created Durendal and Aurelia, and had a major hand in Angular 2"
+    "experience": "Created Durendal and Aurelia, and had a major hand in Angular 2"
   },
   {
+    "key": 9,
     "name":"Armin Ronacher",
     "img": "https://i.ibb.co/C1n5Kjn/Armin-Ronacher.jpg",
     "skill": "Python",
     "age": 45,
     "demand":25000,
     "country": "USA",
-    "exprience": "Created the Flask python framework"
+    "experience": "Created the Flask python framework"
   },
   {
+    "key": 10,
     "name":"Ryan Dahl",
     "img": "https://i.ibb.co/chKVw3P/Ryan-Dahl.jpg",
     "skill": "Python,Javascript",
     "age": 45,
     "demand":250007,
     "country": "USA",
-    "exprience": "Created NodeJS"
+    "experience": "Created NodeJS"
   },
   {
+    "key": 11,
     "name":"David Cramer",
     "img": "https://i.ibb.co/9nVNST8/David-Cramer.jpg",
     "skill": "Python,Javascript",
     "age": 45,
     "demand":25000,
     "country": "Bangladesh",
-    "exprience": "Creator of Sentry."
+    "experience": "Creator of Sentry."
   }
   ]
